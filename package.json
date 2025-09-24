@@ -9,20 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@hookform/resolvers": "^5.2.2",
-    "@radix-ui/react-label": "^2.1.7",
-    "@radix-ui/react-slot": "^1.2.3",
-    "class-variance-authority": "^0.7.1",
-    "clsx": "^2.1.1",
-    "lucide-react": "^0.544.0",
+    "@ant-design/icons": "^6.0.2",
+    "antd": "^5.27.4",
+    "axios": "^1.12.2",
     "next": "13.5.11",
     "react": "^18",
     "react-dom": "^18",
-    "react-google-recaptcha-v3": "^1.11.0",
-    "react-hook-form": "^7.63.0",
-    "tailwind-merge": "^3.3.1",
-    "tailwindcss-animate": "^1.0.7",
-    "zod": "^4.1.11"
+    "react-google-recaptcha-v3": "^1.11.0"
   },
   "devDependencies": {
     "autoprefixer": "^10",
